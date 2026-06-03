@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vijaykumargrandhi/assets/main/github-banner.png" />
+</p>
 <h1 align="center">Hi 👋, I'm Vijay Kumar Grandhi</h1>
 
 <h3 align="center">
